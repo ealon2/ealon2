@@ -1,9 +1,25 @@
-👋 Hi, I’m Ezequiel Alonso (@ealon2).
+# Hi there, I'm Ezequiel Alonso 👋
 
-I started my journey in the IT world as a SAP SD Analyst and later grew to a Full Stack Developer role. I have well-developed analysis skills, and experience programming in Java and Node JS within a microservices ecosystem that included technologies such as AWS (Lambda, RDS, VPC), Apache KAFKA, Selenium, ELK, Grafana, and Akana.
+![Profile Views](https://www.linkedin.com/in/ezequiel-alonso/)
 
-🌱 I’m currently working in Mercado Libre as Project Leader, carrying out periodic implementations in more than 8 countries, together with a team of Backend, Frontend, UX and Product Developers. 
+## About Me
 
-💞️ I aspire to continue growing in the role of Project Leader, where I can apply my analysis, technical skills and develop my leadership skills.
+I am a passionate developer with experience in various programming languages and technologies. I love working on open source projects and contributing to the developer community.
 
-📫 How to reach me https://www.linkedin.com/in/ezequiel-alonso/
+- 🔭 I’m currently working on **Mercado Libre as Project Leader**
+- 🌱 I’m currently learning *IOT & Machine Learning**
+- 👯 I’m looking to collaborate on ![IOTA](https://www.iota.org/)
+- 📫 How to reach me: **[ezequiel.alonso.fiasche@gmail.com]**
+
+## Skills
+
+- **Languages:** Python, JavaScript, Java, C++, etc.
+- **Frameworks/Libraries:** React, Node.js, Django, Flask, etc.
+- **Tools:** Git, Docker, Kubernetes, etc.
+- **Databases:** MySQL, PostgreSQL, MongoDB, etc.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ezequiel-alonso/))
+
+Thank you for visiting my profile!

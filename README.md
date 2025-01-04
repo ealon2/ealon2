@@ -1,6 +1,6 @@
 # Hi there, I'm Ezequiel Alonso 👋
 
-![Profile Views](https://www.linkedin.com/in/ezequiel-alonso/)
+![Profile Views](https://www.linkedin.com/in/ezequiel-alonso)
 
 ## About Me
 
@@ -8,7 +8,7 @@ I am a passionate developer with experience in various programming languages and
 
 - 🔭 I’m currently working on **Mercado Libre as Project Leader**
 - 🌱 I’m currently learning *IOT & Machine Learning**
-- 👯 I’m looking to collaborate on ![IOTA](https://www.iota.org/)
+- 👯 I’m looking to collaborate on ![IOTA](https://www.iota.org)
 - 📫 How to reach me: **[ezequiel.alonso.fiasche@gmail.com]**
 
 ## Skills
